@@ -1,0 +1,9 @@
+batch_size = 30
+epochs = 10
+future_look = 15
+look_back = 50
+input_dim = 1
+hidden_dim = 32
+num_layers = 2
+output_dim = 1
+learning_rate = 0.1
