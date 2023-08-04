@@ -1,8 +1,9 @@
 # Example_of_my_work
-This repositary shows challenging and also nice finished code. The purpose is to show my coding style and thoughts
+This repository showcases a collection of challenging and well-crafted code samples. Its main objective is to demonstrate my coding style and thought processes.
+
 
 ## Finished
-In folder finished there is assgiment to university and work-interview assgiments.
+Inside the "finished" folder, you can find completed assignments from university and work-interview tasks.
 
 ## Experimental
-The code contains the example of training the model LSTM. The codes are NOT executable without additional files. Ask me for more information.
+The "experimental" section includes code examples related to training the LSTM model. Please note that these codes are not fully executable without some additional files. Feel free to ask me for more information if needed.
