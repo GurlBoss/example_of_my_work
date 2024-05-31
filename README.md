@@ -1,9 +1,8 @@
-# Example_of_my_work
-This repository showcases a collection of challenging and well-crafted code samples. Its main objective is to demonstrate my coding style and thought processes.
-
+# Examples
+Welcome to my portfolio, a showcase of meticulously crafted code samples reflecting my coding style and problem-solving prowess.
 
 ## Finished
-Inside the "finished" folder, you can find completed assignments from university and work-interview tasks.
+Explore the "Finished" directory to discover polished assignments from my academic journey and work-related challenges.
 
 ## Experimental
-The "experimental" section includes code examples related to training the LSTM model. Please note that these codes are not fully executable without some additional files. Feel free to ask me for more information if needed.
+Dive into the "Experimental" section, where I delve into the intricacies of training LSTM models. Please note that these examples may require supplementary files for full execution. Don't hesitate to reach out for further clarification or assistance.
